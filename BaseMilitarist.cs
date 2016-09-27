@@ -1,15 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class NewBehaviourScript : MonoBehaviour {
-
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+public class BaseMilitarist : OwnCharacterClass {
+	public BaseMilitarist(){
+		OwnCharacterClass = "Militarist";
+		CharacterClassDescription = "A person who like solve problem by force";
+		military = 15;
+		diplomatic = 7;
+		economy = 16;
+		education = 10;
 }
