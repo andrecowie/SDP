@@ -34,7 +34,7 @@ public class NPCMovement : MonoBehaviour {
 		Debug.Log("Test");
 		if(isTalking) {
 			anim.SetBool("isWalking", false);
-			rigidbody.MovePosition (rigidbody.position); //Hopefully keeps the sprite in the same position
+			rigidbody.MovePosition (rigidbody.position); //Keeps the sprite in the same position
 		} else {
 			directionChange ();
 			if (currentDirection == 0) {
@@ -76,6 +76,7 @@ public class NPCMovement : MonoBehaviour {
 		if (col.gameObject.name == "Player") {
 			Debug.Log("collided with 'player'");
 			isTalking = true;
+			//This is where the interactions go
 		}
 	}
 

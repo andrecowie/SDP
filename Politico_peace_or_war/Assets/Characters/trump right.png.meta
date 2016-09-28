@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 3048efc51f93614408065a3e926f9853
+timeCreated: 1474960462
+licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: trump right_0
@@ -9,7 +11,7 @@ TextureImporter:
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     linearTexture: 0
     correctGamma: 0
     fadeOut: 0
@@ -24,17 +26,22 @@ TextureImporter:
   isReadable: 0
   grayScaleToAlpha: 0
   generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
-  textureFormat: -1
+  textureFormat: -3
   maxTextureSize: 1024
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
+  rGBM: 0
   compressionQuality: 50
+  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
@@ -50,42 +57,44 @@ TextureImporter:
     - name: trump right_0
       rect:
         serializedVersion: 2
-        x: 859
-        y: 4136
-        width: 2040
-        height: 3263
+        x: 863
+        y: 4140
+        width: 2032
+        height: 3255
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: trump right_1
       rect:
         serializedVersion: 2
-        x: 4699
-        y: 4106
-        width: 2040
-        height: 3293
+        x: 4703
+        y: 4110
+        width: 2032
+        height: 3285
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: trump right_2
       rect:
         serializedVersion: 2
-        x: 859
-        y: 296
-        width: 2040
-        height: 3263
+        x: 863
+        y: 300
+        width: 2032
+        height: 3255
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: trump right_3
       rect:
         serializedVersion: 2
-        x: 4699
-        y: 296
-        width: 2040
-        height: 3263
+        x: 4703
+        y: 300
+        width: 2032
+        height: 3255
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
-  userData: 
+  userData: tiled2unity
+  assetBundleName: 
+  assetBundleVariant: 

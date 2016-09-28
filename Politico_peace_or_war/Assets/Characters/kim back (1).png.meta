@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: 908ffa2b75edf894ca55de176b80ced6
+timeCreated: 1474959031
+licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: kim back (1)_0
@@ -9,7 +11,7 @@ TextureImporter:
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     linearTexture: 0
     correctGamma: 0
     fadeOut: 0
@@ -24,17 +26,22 @@ TextureImporter:
   isReadable: 0
   grayScaleToAlpha: 0
   generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
-  textureFormat: -1
+  textureFormat: -3
   maxTextureSize: 1024
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
   lightmap: 0
+  rGBM: 0
   compressionQuality: 50
+  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
@@ -50,42 +57,44 @@ TextureImporter:
     - name: kim back (1)_0
       rect:
         serializedVersion: 2
-        x: 874
-        y: 4234
-        width: 2092
-        height: 3052
+        x: 878
+        y: 4238
+        width: 2085
+        height: 3045
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: kim back (1)_1
       rect:
         serializedVersion: 2
-        x: 4714
-        y: 4234
-        width: 2092
-        height: 3052
+        x: 4718
+        y: 4238
+        width: 2085
+        height: 3045
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: kim back (1)_2
       rect:
         serializedVersion: 2
-        x: 874
-        y: 394
-        width: 2092
-        height: 3052
+        x: 878
+        y: 398
+        width: 2085
+        height: 3045
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: kim back (1)_3
       rect:
         serializedVersion: 2
-        x: 4714
-        y: 394
-        width: 2092
-        height: 3052
+        x: 4718
+        y: 398
+        width: 2085
+        height: 3045
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
-  userData: 
+  userData: tiled2unity
+  assetBundleName: 
+  assetBundleVariant: 
