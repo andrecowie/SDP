@@ -31,7 +31,6 @@ public class NPCMovement : MonoBehaviour {
 	}
 
 	void Update () {
-		Debug.Log("Test");
 		if(isTalking) {
 			anim.SetBool("isWalking", false);
 			rigidbody.MovePosition (rigidbody.position); //Keeps the sprite in the same position

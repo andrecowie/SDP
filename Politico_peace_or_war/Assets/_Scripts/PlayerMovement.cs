@@ -17,7 +17,6 @@ public class PlayerMovement : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		Vector2 movementVector = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
-		Debug.Log ("after mV is made... movementVect = " + movementVector);
 		if (movementVector != Vector2.zero) {
 			anim.SetBool("isWalking", true);
 			anim.SetFloat("input_x", movementVector.x);
