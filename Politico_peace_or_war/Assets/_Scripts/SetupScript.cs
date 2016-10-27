@@ -35,7 +35,7 @@ public class SetupScript : MonoBehaviour {
 	}
 
 	void Update() {
-		Debug.Log ("Gender: " + gender + ", Name: " + name); //testing only
+		 
 	}
 
 }
