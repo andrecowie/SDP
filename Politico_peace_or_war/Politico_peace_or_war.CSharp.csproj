@@ -86,6 +86,7 @@
     <Compile Include="Assets\_Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\_Scripts\PlayerScript.cs" />
     <Compile Include="Assets\_Scripts\SetupScript.cs" />
+    <Compile Include="Assets\_Scripts\Warp.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap AlphaTest.shader" />
@@ -110,6 +111,11 @@
     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline.shader" />
     <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
     <None Include="Assets\Tiled2Unity\Imported\2d RPG.tiled2unity.xml" />
+    <None Include="Assets\Tiled2Unity\Imported\Indoor 1.tiled2unity.xml" />
+    <None Include="Assets\Tiled2Unity\Imported\Indoor 2.tiled2unity.xml" />
+    <None Include="Assets\Tiled2Unity\Imported\Indoor 3.tiled2unity.xml" />
+    <None Include="Assets\Tiled2Unity\Imported\Indoor 4.tiled2unity.xml" />
+    <None Include="Assets\Tiled2Unity\Imported\Indoor 5.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\Test Map.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\_ReadMe.txt" />
     <None Include="Assets\Tiled2Unity\License.txt" />
