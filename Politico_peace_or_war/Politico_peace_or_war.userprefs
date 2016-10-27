@@ -1,10 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\NPCMovement.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\ChangeSceneScript.cs">
     <Files>
-      <File FileName="Assets\_Scripts\NPCMovement.cs" Line="7" Column="90" />
+      <File FileName="Assets\_Scripts\ChangeSceneScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\PlayerScript.cs" Line="27" Column="40" />
+      <File FileName="Assets\_Scripts\SetupScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\NPCMovement.cs" Line="1" Column="1" />
       <File FileName="Assets\_Scripts\PlayerMovement.cs" Line="1" Column="1" />
       <File FileName="Assets\_Scripts\CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\GenderButtonScript.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

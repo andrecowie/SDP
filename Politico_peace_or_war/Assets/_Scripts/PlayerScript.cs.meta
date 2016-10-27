@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e6b72947e93bdba4c93b053f06fd4159
+timeCreated: 1477111468
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - disIm: {instanceID: 0}
+  - boy: {fileID: 21300000, guid: 7d9622c43f9e7be41ba88e033555e0f5, type: 3}
+  - girl: {fileID: 21300000, guid: 0edb585c4bd33e94da384bf053115b2a, type: 3}
+  - other: {fileID: 21300000, guid: de2fe47b28648c1469af86ef1d1d78b2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

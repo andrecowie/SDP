@@ -52,8 +52,13 @@
      <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\TiledInitialShaderProperties.cs" />
      <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\TiledMap.cs" />
      <Compile Include="Assets\_Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\_Scripts\ChangeSceneScript.cs" />
+     <Compile Include="Assets\_Scripts\GenderButtonScript.cs" />
      <Compile Include="Assets\_Scripts\NPCMovement.cs" />
+     <Compile Include="Assets\_Scripts\NewBehaviourScript.cs" />
      <Compile Include="Assets\_Scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\_Scripts\PlayerScript.cs" />
+     <Compile Include="Assets\_Scripts\SetupScript.cs" />
      <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
@@ -92,17 +97,11 @@
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>C:/Users/Mikey Stewart/Desktop/SDP/Github synced/SDP/Politico_peace_or_war/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
