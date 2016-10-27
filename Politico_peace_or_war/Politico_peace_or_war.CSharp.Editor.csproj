@@ -149,6 +149,8 @@
     <None Include="Assets\Tiled2Unity\Imported\Indoor 3.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\Indoor 4.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\Indoor 5.tiled2unity.xml" />
+    <None Include="Assets\Tiled2Unity\Imported\Present Palace.tiled2unity.xml" />
+    <None Include="Assets\Tiled2Unity\Imported\Present.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\Test Map.tiled2unity.xml" />
     <None Include="Assets\Tiled2Unity\Imported\_ReadMe.txt" />
     <None Include="Assets\Tiled2Unity\License.txt" />
